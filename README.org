@@ -5,5 +5,5 @@ Zyre and ZeroMQ for Common Lisp.  Zyre is for cluster messaging and LAN service 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/jesseoff/cl-zyre.git |
 | commit  | 34aa160                                     |
-| systems | cl-zyre                                     |
+| systems | zyre                                        |
 |---------+---------------------------------------------|
