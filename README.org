@@ -1,0 +1,9 @@
+* cl-zyre
+
+Zyre and ZeroMQ for Common Lisp.  Zyre is for cluster messaging and LAN service discovery.  Available in quicklisp (ql:quickload :zyre)
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/jesseoff/cl-zyre.git |
+| commit  | 34aa160                                     |
+| systems | cl-zyre                                     |
+|---------+---------------------------------------------|
